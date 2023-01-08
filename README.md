@@ -30,8 +30,8 @@ This is a combined solution to the [Digital Clock](https://jsbeginners.com/javas
 
 ### Links
 
-- Solution URL: [https://github.com/traez/random-reasons-oop-javascript-project](https://github.com/traez/random-reasons-oop-javascript-project)
-- Live Site URL: [https://traez.github.io/random-reasons-oop-javascript-project/](https://traez.github.io/random-reasons-oop-javascript-project/)
+- Solution URL: [https://github.com/traez/digital-clock-countdown-timer-javascript-project](https://github.com/traez/digital-clock-countdown-timer-javascript-project)
+- Live Site URL: [https://traez.github.io/digital-clock-countdown-timer-javascript-project/](https://traez.github.io/digital-clock-countdown-timer-javascript-project/)
 
 ## My process
 
